@@ -1,2 +1,5 @@
 # git-demo
-This is a git demo 
+
+I am starting to learn git, wish me luck>. 
+
+
